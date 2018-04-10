@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491377803 source:c:\users\dawid\desktop\programowanie\jtp\zadanie2c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
